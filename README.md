@@ -37,7 +37,7 @@ http://localhost:8081
 ## 🖥️ Preview
 Here's a preview of the project:
 
-![Project Screenshot](images/screenshot.png)
+![Project Screenshot](screenshot.png)
 
 
 
