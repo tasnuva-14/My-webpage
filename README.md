@@ -14,7 +14,9 @@ This is a simple HTML project containerized with Docker to make it easily deploy
 ## 📂 Project Structure
 project-folder/ 
 ├── index.html # Main HTML file
+
 ├── tasnuva/ # Image used for the project 
+
 ├── Dockerfile # Dockerfile to containerize the project
 
 ---
